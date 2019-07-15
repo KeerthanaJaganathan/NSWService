@@ -10,6 +10,6 @@ import cucumber.api.junit.Cucumber;
         features = {"src/test/resources"}
         ,glue={"stepDefinition"}
 )
-public class RunCukesTest {
+public class TestRunner {
 
 }
